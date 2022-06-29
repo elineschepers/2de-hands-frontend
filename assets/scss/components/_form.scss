@@ -1,0 +1,207 @@
+.input-field {
+  input {
+    @apply shadow-sm focus:ring-regal-blue-100 focus:border-regal-blue-100 block w-full sm:text-sm border-gray-300 rounded-md;
+  }
+
+  textarea {
+    @apply block w-full shadow-sm focus:ring-regal-blue-100 focus:border-regal-blue-100 sm:text-sm border-gray-300 rounded-md;
+  }
+
+  label {
+    @apply block text-sm font-medium text-gray-700;
+  }
+
+  .icon-container {
+    @apply absolute inset-y-0 right-0 pr-3 hidden items-center pointer-events-none;
+  }
+
+  .field-wrapper {
+    @apply mt-1 relative;
+  }
+
+  .field-error-subtext {
+    @apply text-red-500 text-sm mt-1 hidden;
+  }
+
+  &.validation-error {
+    label {
+      @apply text-red-500;
+    }
+
+    input, textarea {
+      @apply border-red-300 text-red-900 placeholder-red-300 focus:ring-red-500 focus:border-red-500;
+    }
+
+    .icon-container {
+      @apply flex;
+
+      svg {
+        @apply text-red-500;
+      }
+    }
+
+    .field-error-subtext {
+      @apply block;
+    }
+  }
+}
+
+.title-field {
+  h1 {
+    @apply text-lg leading-6 font-medium text-gray-900;
+  }
+
+  p {
+    @apply mt-1 text-sm text-gray-500;
+  }
+}
+
+.form {
+  .button-field {
+    @apply flex space-x-2 justify-end;
+  }
+
+  &.centered-form {
+    @apply space-y-6;
+  }
+
+  .input-group {
+    @apply flex text-sm;
+  }
+
+  /**
+    * Checkbox
+    */
+  .checkbox-wrapper {
+    @apply flex items-start;
+
+    .checkbox {
+      @apply flex items-center h-5;
+
+      input {
+        @apply focus:ring-regal-blue-100 h-4 w-4 text-regal-blue-100 border-gray-300 rounded;
+      }
+    }
+
+    .checkbox-label {
+      @apply ml-3 text-sm;
+
+      label {
+        @apply font-medium text-gray-700 normal-case;
+
+        &.white {
+          @apply text-white;
+        }
+      }
+
+      p {
+        @apply text-gray-500;
+      }
+    }
+  }
+}
+
+.checkbox-button-wrapper {
+  @apply relative z-0 inline-flex rounded-md;
+
+  .checkbox-button {
+    @apply relative inline-flex items-center px-2 py-2 rounded-l-md border border-gray-300 bg-white;
+
+    label {
+      @apply sr-only;
+    }
+
+    input {
+      @apply h-4 w-4 text-regal-blue-100 focus:ring-regal-blue-100 border-gray-300 rounded;
+    }
+  }
+
+  button {
+    @apply rounded-l-none;
+  }
+}
+
+.multiselect {
+  min-height: auto;
+  box-shadow: none !important;
+  @apply rounded-md max-w-full box-border w-full focus:ring-regal-blue-100 focus:border-regal-blue-100 block sm:text-sm border-gray-300;
+
+  .multiselect__tags {
+    min-height: auto;
+    @apply p-0 m-0 rounded-md;
+
+    .multiselect__input {
+      @apply rounded-t-md my-0;
+    }
+
+    .multiselect__tags-wrap {
+      @apply flex flex-wrap gap-0.5;
+
+      .multiselect__tag {
+        @apply m-0 bg-white text-regal-blue-200;
+
+        .multiselect__tag-icon {
+          @apply text-white hover:bg-regal-blue-100 hover:text-white;
+        }
+      }
+    }
+  }
+
+  .multiselect__content-wrapper {
+    @apply border-regal-blue-100;
+
+    .multiselect__option {
+      @apply text-sm px-3 py-2.5;
+
+      &.multiselect__option--highlight {
+        @apply bg-regal-blue-200;
+
+        &:after {
+          @apply bg-regal-blue-200;
+        }
+      }
+    }
+  }
+
+  .multiselect__select {
+    @apply h-full top-0 right-0;
+
+    &:before {
+      border-color: #fff transparent transparent;
+    }
+  }
+
+  &.multiselect--active {
+    .multiselect__tags {
+      .multiselect__tags-wrap {
+        @apply m-1.5;
+      }
+
+      .multiselect__input {
+        @apply px-3 py-2;
+      }
+    }
+  }
+
+  &:not(.multiselect--active) {
+    justify-content: left !important;
+
+    @apply py-2 px-4 border border-transparent text-sm font-medium bg-regal-blue-200 focus:ring-regal-blue-200 text-white focus:outline-none focus:ring-2 focus:ring-offset-2 transition-all duration-200;
+
+
+    .multiselect__tags {
+      @apply bg-transparent border-none;
+
+      .multiselect__placeholder {
+        color: inherit;
+
+        @apply p-0 m-0;
+
+      }
+
+      .multiselect__single{
+        @apply  bg-transparent text-white mb-0 text-sm;
+      }
+    }
+  }
+}

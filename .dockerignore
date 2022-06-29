@@ -1,0 +1,6 @@
+.nuxt
+.vscode
+.env
+.env.*
+*.md
+node_modules

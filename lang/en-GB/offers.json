@@ -1,0 +1,43 @@
+{
+  "filter": {
+    "title": "search by title",
+    "isbn": "search by isbn",
+    "description": "search by description"
+  },
+  "sort": {
+    "price_up": "Price ascending",
+    "price_down": "Price descending",
+    "new_first": "Newest first",
+    "old_first": "Oldest first",
+    "title_up": "Title"
+  },
+  "condition": {
+    "new": "New",
+    "used": "Used",
+    "as_good_as_new": "Slightly used",
+    "title": "Condition"
+  },
+  "menu": "Overview",
+  "save": "Save offer",
+  "selectCourses": "Select courses",
+  "createTitle": "Create a new offer",
+  "editTitle": "Edit this offer",
+  "formDescription": "You are about to create an offer. You can add or remove images after saving the offer.",
+  "editDescription": "You are about to edit an offer.",
+  "images": "Images",
+  "owned": "Only my offers",
+  "search": "Search in the offers",
+  "viewImageLarger": "View image {order} in large format",
+  "askingPrice": "Asking price",
+  "edit": "Edit",
+  "seller": "Seller",
+  "imageDeleted":"Image has been deleted",
+  "isbn": "ISBN-number",
+  "courses": "Courses",
+  "image_in_queue": "Image is in queue for processing",
+  "image_processed": "Image is processed and available",
+  "sort_images_tip": "Tip: drag and drop images to change their order",
+  "free": "Free",
+  "title": "{offertitle} - Sold",
+  "noresult": "No offers found!"
+}

@@ -1,0 +1,226 @@
+<template>
+  <div>
+    <div class="sm:mx-auto sm:w-full sm:max-w-md">
+      <svg class="mx-auto h-24 w-auto" id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg"
+           viewBox="0 0 175.37 66.9">
+        <defs>
+          <style>.cls-1 {
+            fill: #e30046
+          }</style>
+        </defs>
+        <path class="cls-1"
+              d="m90 57.61-20.24.15a.49.49 0 0 1 0 .12V58.81l20.2 1.39H90a22 22 0 0 0 0-2.59ZM45.36 89.39a28.66 28.66 0 0 0 3.07.93l3.48-13.88c-.51-.42-1-.87-1.48-1.32ZM31.1 79.56c0 .05.09.1.13.16.59.66 1.18 1.3 1.8 1.92l.21.2 12.59-13c-.23-.45-.45-.92-.65-1.39ZM51 90.86h.25c.86.13 1.74.24 2.61.31h.29l.7-10.1-.7 10.1.87-12.62a20.67 20.67 0 0 1-1.82-1.16ZM40.05 87l.22.11c.85.47 1.73.91 2.61 1.31L49.36 74c-.4-.44-.79-.9-1.15-1.38ZM35.25 83.64l.18.15c.68.55 1.39 1.08 2.11 1.58l.22.15 9.56-14.1c-.3-.45-.6-.92-.88-1.4ZM23.67 63.92v.24c.19 1 .41 1.92.69 2.85l19.18-5.47c-.06-.43-.11-.85-.14-1.28ZM27.74 74.81a2 2 0 0 1 .11.2c.46.75.93 1.48 1.44 2.2l.16.21 15.33-11.01c-.16-.44-.31-.9-.45-1.36ZM43.76 62.64l-18.53 6.91c.38 1 .8 2 1.27 3L44 64c-.1-.43-.2-.87-.28-1.31M82.33 79.22l.16-.19c.56-.68 1.09-1.39 1.59-2.1l.14-.21-1.7-1.16a24.44 24.44 0 0 1-2.37 1.94ZM85.64 74.43c0-.08.08-.17.13-.25.47-.84.91-1.72 1.3-2.6l-.87-.4a21.47 21.47 0 0 1-1.9 2.51ZM43.37 58.14V58l-20.24.12v.29c0 .87.07 1.76.14 2.62v.27l20.09-2.05v-1.12M78.24 83.36c0-.06.11-.1.16-.15.67-.57 1.31-1.17 1.92-1.79l.18-.18-2.49-2.42A21.87 21.87 0 0 1 75.42 80ZM66.7 81.72h-1.28l2.8 7.54c1-.38 2-.8 3-1.26l-3.06-6.28h-1.42M56.79 91.33h.29c.88 0 1.76 0 2.63-.14h.27l-1.1-10.76c-.74-.26-1.46-.57-2.17-.9ZM60.8 81l1.8 9.81.25-.05c.95-.18 1.92-.41 2.85-.67l-2.44-8.57A23.34 23.34 0 0 1 60.8 81M73.49 86.73l.19-.11c.74-.46 1.48-.93 2.19-1.44l.19-.15h.06l-3-4.16a22.89 22.89 0 0 1-2.78.62ZM27.49 41.37l-.12.21c-.48.85-.91 1.73-1.31 2.61L44.2 52.3c.11-.43.24-.85.38-1.28ZM79.12 38.65 82 36.17l-.15-.17c-.57-.66-1.17-1.3-1.79-1.92l-.19-.18-3.3 3.41a21.57 21.57 0 0 1 2.59 1.4M85.39 40.91l-.1-.18c-.45-.75-.93-1.48-1.43-2.2l-.17-.22v-.05l-2.52 1.84a21.8 21.8 0 0 1 2.27 2ZM73.07 28.78l-.21-.12c-.85-.47-1.73-.92-2.62-1.32l-3.45 7.74a23.31 23.31 0 0 1 2.66.16ZM87.9 46.18c-.37-1-.8-2-1.27-3l-1.57.82a23 23 0 0 1 1.76 2.58ZM89.47 51.8a1.89 1.89 0 0 0 0-.23c-.19-1-.41-1.93-.69-2.87l-.72.21a23.17 23.17 0 0 1 1.1 3ZM67.76 26.36c-1-.36-2-.67-3.08-.93l-2.5 10.08a24.47 24.47 0 0 1 2.47-.35ZM77.87 32.09l-.18-.14a31.99 31.99 0 0 0-2.1-1.58l-.23-.17-3.68 5.43a24.68 24.68 0 0 1 2.71.76ZM39.62 29.05a1 1 0 0 0-.18.1c-.76.46-1.49.93-2.21 1.44l-.2.15h-.06l10.46 14.51c.3-.45.62-.88 1-1.31ZM30.8 36.57l-.16.2c-.56.68-1.09 1.39-1.58 2.11l-.15.22L44.92 50c.17-.44.35-.87.55-1.3ZM46.73 46.33 34.88 32.42l-.17.15c-.67.57-1.31 1.17-1.93 1.8a1.53 1.53 0 0 1-.18.18L46 47.64c.24-.44.48-.88.74-1.31M50.51 25l-.26.05c-1 .18-1.92.42-2.86.69l4.25 14.87c.5-.42 1-.82 1.54-1.19ZM56.32 24.43l-3.2.17 1.43 13.88a20.89 20.89 0 0 1 1.86-1ZM44.89 26.54c-1 .38-2 .8-2.94 1.27l7.35 15.07c.39-.44.8-.87 1.22-1.28ZM62.1 24.89h-.25c-.85-.14-1.73-.25-2.6-.32h-.35l-.83 12.2a21.5 21.5 0 0 1 2.19-.77ZM67.51 65.28l15 10.22a23.55 23.55 0 0 0 1.77-1.83L68.06 64.4a10 10 0 0 1-.55.88"
+              transform="translate(-23.13 -24.43)"/>
+        <path class="cls-1"
+              d="m45.63 50.49-.7-.48c-.14.35-.26.7-.38 1.05l.54.31c.17-.3.35-.6.54-.88M44.52 52.49l-.35-.15c-.09.34-.18.68-.25 1l.21.08c.12-.33.25-.64.39-1M88.07 69.11c.36-1 .67-2 .93-3l-.23-.11a20.72 20.72 0 0 1-1.25 3ZM89.48 63.46 69.59 60.1c-.06.34-.13.68-.21 1L88.77 66a15.77 15.77 0 0 0 .78-2.5ZM46.39 49.48a10.27 10.27 0 0 1 .7-.78L46 47.64c-.19.36-.35.71-.52 1.07ZM66.05 67.07l12 11.68a23 23 0 0 0 2.1-1.31L66.75 66.3a10.13 10.13 0 0 1-.7.77M68.62 63.28l17.6 7.88a23.64 23.64 0 0 0 1.29-2.24L69 62.32a8 8 0 0 1-.39 1M48.06 47.79c.25-.21.51-.41.77-.6l-1.4-1.93c-.24.34-.48.7-.7 1.07l1.27 1.5M50.81 46l-1.52-3.12c-.31.35-.61.7-.9 1.06l1.51 2.55c.29-.17.6-.34.91-.49M64.31 68.58l8.85 12.24c.77-.23 1.52-.48 2.26-.78l-10.29-12.1c-.27.23-.54.44-.82.64M47.38 67.37l-1.5 1.55c.19.39.4.77.61 1.15l1.67-2c-.27-.23-.53-.46-.78-.7M56.57 71.09h-1l-.37 5.11-.18 2.46c.54.32 1.09.6 1.65.87v-8.4h-.1M45.87 65.62l-1.09.79c.14.38.3.75.45 1.12l1.28-1.09c-.22-.26-.43-.54-.64-.82M51.18 69.94 49.36 74c.34.39.7.75 1.07 1.12l1.7-4.8c-.32-.11-.64-.24-1-.38M49.18 68.83l-1.81 2.64c.27.4.55.77.84 1.15l1.84-3.25a15.7 15.7 0 0 1-.87-.54M57.94 71l1 9.37c.63.22 1.27.42 1.91.59L59 70.87c-.34.06-.67.11-1 .15M43.44 59.25c0 .34 0 .69.06 1h.14a8.35 8.35 0 0 1-.15-1M63.25 69.28c-.3.18-.61.34-.92.49l5.79 11.92c.77-.06 1.53-.13 2.26-.25ZM53.34 70.69l-1.43 5.75c.43.35.88.7 1.34 1l1.11-6.56c-.35-.06-.68-.13-1-.21M43.87 61.5l-.28.08c0 .36.09.71.17 1.06l.43-.16c-.12-.32-.23-.65-.32-1M44.69 63.65 44 64c.09.36.19.73.29 1.09l.84-.5q-.26-.43-.48-.9M60.19 70.59l3.1 10.89q1.05.15 2.13.21l-4.25-11.42c-.32.12-.65.22-1 .32M53 45.19l-1.33-4.6c-.37.33-.75.66-1.11 1L52 45.5c.32-.11.65-.22 1-.31M54.17 44.9l.51-.08.51-.07-.64-6.27c-.47.29-.94.6-1.38.92l1 5.5ZM63.05 46.38c.14.08.28.15.41.24s.3.18.44.28h.05l7.68-11.34q-1.09-.23-2.22-.36l-6.34 11.19M65 47.69l.09.08.36.31.1.09.23.21 10.75-11.13a21 21 0 0 0-2.19-.9ZM66.69 49.4c.2.24.39.49.57.74l13.86-10.07a21.31 21.31 0 0 0-2-1.42l-12.5 10.66.07.09M68 51.19c.17.3.34.6.49.91L85.06 44a23.38 23.38 0 0 0-1.67-1.9L68 51.19M69.27 54.24 88 48.88c-.36-.79-.75-1.56-1.18-2.3L69 53.27c.12.32.22.64.32 1M56.55 44.68h.99l.54-8c-.57.22-1.13.47-1.67.74l.05 7.22h.09M58.77 44.86c.35.06.68.13 1 .21l2.38-9.56c-.64.13-1.29.28-1.91.46ZM61 45.44c.32.11.63.24 1 .38l4.8-10.75c-.7 0-1.39 0-2.06.09L61 45.44ZM69.7 56.49l20-2.07a21.47 21.47 0 0 0-.59-2.55l-19.55 3.6a8.35 8.35 0 0 1 .15 1M43.4 56.91c0-.43.06-.9.11-1.23.06-.34.13-.68.21-1h-.09s.21-1.15.25-1.26l-18.82-6.74c-.36 1-.67 2-.93 3.08l19.54 4.87c-.06.38-.11.73-.15 1l-19.93-3.3a.19.19 0 0 0 0 .08v.17c-.14.86-.25 1.73-.31 2.6V55.53L43.4 56.9Z"
+              transform="translate(-23.13 -24.43)"/>
+        <g>
+          <path class="cls-1"
+                d="M108.13 75.94H103v4.38h-1.09v-9.39H103v4h5.18v-4h1.1v9.39h-1.1ZM115.9 70.74a4.88 4.88 0 1 1-4.9 4.87 4.7 4.7 0 0 1 4.9-4.87Zm0 8.71a3.84 3.84 0 1 0-3.77-3.84 3.63 3.63 0 0 0 3.77 3.84ZM130.42 80.32v-1.35a4.61 4.61 0 0 1-3.47 1.53 4.88 4.88 0 0 1 0-9.76 4.47 4.47 0 0 1 4.26 2.57l-1.07.29a3.47 3.47 0 0 0-3.14-1.82 3.57 3.57 0 0 0-3.73 3.82 3.63 3.63 0 0 0 3.73 3.85 3.9 3.9 0 0 0 3.38-1.68v-1.34h-2.79v-1h3.81v4.91ZM133.51 70.93h6.32v1h-5.23v3h4.08v1h-4.08v3.37h5.26v1h-6.35ZM142.32 77.57c.1 1.34 1.22 2 2.65 2s2.2-.55 2.2-1.68c0-1.54-1.55-1.62-2.72-1.88s-2.91-.75-2.91-2.65c0-1.64 1.2-2.57 3.18-2.57 1.74 0 3 .73 3.43 2.34l-1.05.28a2.16 2.16 0 0 0-2.4-1.64c-1.37 0-2 .59-2 1.55 0 1.24 1.18 1.51 2.52 1.78s3.11.71 3.11 2.78c0 1.77-1.23 2.67-3.32 2.67-1.59 0-3.4-.53-3.69-2.65ZM158.75 77.68a4.58 4.58 0 0 1-4.39 2.82 4.88 4.88 0 0 1 0-9.76 4.46 4.46 0 0 1 4.27 2.57l-1.06.29a3.73 3.73 0 0 0-6.94 2 3.73 3.73 0 0 0 7.06 1.79ZM166.91 75.94h-5.18v4.38h-1.09v-9.39h1.09v4h5.18v-4H168v9.39h-1.1ZM174.68 70.74a4.88 4.88 0 1 1-4.87 4.87 4.71 4.71 0 0 1 4.87-4.87Zm0 8.71a3.84 3.84 0 1 0-3.77-3.84 3.64 3.64 0 0 0 3.77 3.84ZM185.77 70.74a4.88 4.88 0 1 1-4.87 4.87 4.71 4.71 0 0 1 4.87-4.87Zm0 8.71a3.84 3.84 0 1 0-3.77-3.84 3.63 3.63 0 0 0 3.77 3.84ZM192.46 70.93h1.08v8.37h5v1h-6Z"
+                transform="translate(-23.13 -24.43)"/>
+          <g>
+            <path class="cls-1"
+                  d="M101.86 51.63V35.82h5.31v14.11c0 5.13 1.12 9.24 6.73 9.24s6.72-4.11 6.72-9.24V35.82h5.31v15.81c0 7.51-3.86 12.41-12 12.41s-12-4.9-12-12.41M130.25 49.65c0-8.7 6-14.39 14.32-14.39a20.73 20.73 0 0 1 8.26 1.62l-.58 4.82a20.52 20.52 0 0 0-7.68-1.58c-5.64 0-8.51 4-8.51 9.53s2.87 9.52 8.51 9.52a20.32 20.32 0 0 0 7.68-1.58l.58 4.83a20.91 20.91 0 0 1-8.26 1.58c-8.3 0-14.32-5.7-14.32-14.39"
+                  transform="translate(-23.13 -24.43)"/>
+            <path class="cls-1"
+                  d="M134.02 39.72V10.95h5.69v23.67h12.82v5.1h-18.51zM156.84 39.72V10.95h5.7v23.68h12.81v5.09h-18.51z"/>
+          </g>
+        </g>
+      </svg>
+      <h2 class="mt-6 text-center text-3xl font-extrabold text-gray-900" v-t="'auth.signup'" />
+    </div>
+
+    <div class="mt-8 sm:mx-auto sm:w-full sm:max-w-xl">
+      <div class="card">
+        <form class="space-y-6" action="#" @submit.prevent="register" method="POST">
+          <others-validation-errors :errors="errors" />
+
+          <ValidationProvider rules="required|max:255" v-slot="{ errors }" tag="div">
+            <div :class="{ 'input-field': true, 'validation-error': errors.length > 0 }">
+              <label for="firstName" v-t="'fields.firstName'" />
+              <div class="field-wrapper">
+                <input id="firstName" v-model="form.firstName" type="text" autocomplete="firstName" required="" :aria-invalid="errors.length > 0" aria-describedby="firstName-error">
+
+                <div class="icon-container" v-if="errors.length > 0">
+                  <icons-warning-icon />
+                </div>
+
+              </div>
+              <p class="field-error-subtext" id="firstName-error" v-if="errors.length > 0">{{ errors[0] }}</p>
+            </div>
+          </ValidationProvider>
+
+          <ValidationProvider rules="required|max:255" v-slot="{ errors }" tag="div">
+            <div :class="{ 'input-field': true, 'validation-error': errors.length > 0 }">
+              <label for="lastName" v-t="'fields.lastName'" />
+              <div class="field-wrapper">
+                <input id="lastName" v-model="form.lastName" type="text" autocomplete="lastName" required="" :aria-invalid="errors.length > 0" aria-describedby="lastName-error">
+
+                <div class="icon-container" v-if="errors.length > 0">
+                  <icons-warning-icon />
+                </div>
+
+              </div>
+              <p class="field-error-subtext" id="lastName-error" v-if="errors.length > 0">{{ errors[0] }}</p>
+            </div>
+          </ValidationProvider>
+
+          <ValidationProvider rules="required|max:255" v-slot="{ errors }" tag="div">
+            <div :class="{ 'input-field': true, 'validation-error': errors.length > 0 }">
+              <label for="schoolNumber" v-t="'fields.schoolNumber'" />
+              <div class="field-wrapper">
+                <input id="schoolNumber" v-model="form.schoolNumber" type="text" autocomplete="schoolNumber" required="" :aria-invalid="errors.length > 0" aria-describedby="schoolNumber-error">
+
+                <div class="icon-container" v-if="errors.length > 0">
+                  <icons-warning-icon />
+                </div>
+
+              </div>
+              <p class="field-error-subtext" id="schoolNumber-error" v-if="errors.length > 0">{{ errors[0] }}</p>
+            </div>
+          </ValidationProvider>
+
+          <ValidationProvider rules="required|max:255" v-slot="{ errors }" tag="div">
+            <div :class="{ 'input-field': true, 'validation-error': errors.length > 0 }">
+              <label for="phoneNumber" v-t="'fields.phoneNumber'" />
+              <div class="field-wrapper">
+                <input id="phoneNumber" v-model="form.phoneNumber" type="text" autocomplete="phoneNumber" required="" :aria-invalid="errors.length > 0" aria-describedby="phoneNumber-error">
+
+                <div class="icon-container" v-if="errors.length > 0">
+                  <icons-warning-icon />
+                </div>
+
+              </div>
+              <p class="field-error-subtext" id="phoneNumber-error" v-if="errors.length > 0">{{ errors[0] }}</p>
+            </div>
+          </ValidationProvider>
+
+          <ValidationProvider rules="required|email" v-slot="{ errors }" tag="div">
+            <div :class="{ 'input-field': true, 'validation-error': errors.length > 0 }">
+              <label for="email" v-t="'fields.email'" />
+              <div class="field-wrapper">
+                <input id="email" v-model="form.email" type="email" autocomplete="email" required="" :aria-invalid="errors.length > 0" aria-describedby="email-error">
+
+                <div class="icon-container" v-if="errors.length > 0">
+                  <icons-warning-icon />
+                </div>
+
+              </div>
+              <p class="field-error-subtext" id="email-error" v-if="errors.length > 0">{{ errors[0] }}</p>
+            </div>
+          </ValidationProvider>
+
+          <ValidationProvider rules="required|min:8|confirmed:passwordConfirmation" v-slot="{ errors }" tag="div">
+            <div :class="{ 'input-field': true, 'validation-error': errors.length > 0 }">
+              <label for="password" v-t="'fields.password'" />
+              <div class="field-wrapper">
+                <input id="password" v-model="form.passwordPlain" type="password" autocomplete="current-password" required="" :aria-invalid="errors.length > 0" aria-describedby="password-error">
+
+                <div class="icon-container" v-if="errors.length > 0">
+                  <icons-warning-icon />
+                </div>
+
+              </div>
+              <p class="field-error-subtext" id="password-error" v-if="errors.length > 0">{{ errors[0] }}</p>
+            </div>
+          </ValidationProvider>
+
+          <ValidationProvider v-slot="{ errors }" tag="div" vid="passwordConfirmation">
+            <div :class="{ 'input-field': true, 'validation-error': errors.length > 0 }">
+              <label for="passwordConfirmation" v-t="'fields.confirmPassword'" />
+              <div class="field-wrapper">
+                <input id="passwordConfirmation" v-model="form.passwordConfirmation" type="password" autocomplete="current-password" required="" :aria-invalid="errors.length > 0" aria-describedby="passwordConfirmation-error">
+
+                <div class="icon-container" v-if="errors.length > 0">
+                  <icons-warning-icon />
+                </div>
+
+              </div>
+              <p class="field-error-subtext" id="passwordConfirmation-error" v-if="errors.length > 0">{{ errors[0] }}</p>
+            </div>
+          </ValidationProvider>
+
+          <div class="input-field">
+            <client-only>
+              <vue-hcaptcha :sitekey="$config.hCaptchaSiteKey" ref="hcaptcha" @verify="setCaptchaResponse" @expired="removeExpiredCaptcha" :language="$i18n.locale" />
+            </client-only>
+          </div>
+
+          <div>
+            <button type="submit" class="button button-primary w-full" v-t="'auth.signup'" />
+          </div>
+
+            <div class="text-sm block m-auto">
+              <p class="text-center">
+                {{$t("auth.or")}} <nuxt-link :to="localePath({ name: 'auth-login' })" v-t="'auth.signin'" />
+              </p>
+            </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</template>
+
+<script>
+import { ValidationProvider } from 'vee-validate';
+import VueHcaptcha from '@hcaptcha/vue-hcaptcha';
+
+export default {
+  name: 'pages-auth-register',
+  components: {
+    ValidationProvider,
+    VueHcaptcha,
+  },
+  layout: 'auth',
+  data () {
+    return {
+      form: {
+        firstName: '',
+        lastName: '',
+        email: '',
+        passwordPlain: '',
+        passwordConfirmation: '',
+        'hCaptchaResponse': ''
+      },
+      errors: {}
+    }
+  },
+  head () {
+    return {
+      title: this.$t('auth.signup')
+    }
+  },
+  methods: {
+    async register () {
+      this.errors = {};
+
+      // Check if the captcha is set
+      if (this.form['hCaptchaResponse'] === '') {
+        this.$refs.hcaptcha.execute();
+        return;
+      }
+
+      try {
+        // Get CSRF Token
+        await this.$axios.get(this.$config.csrfTokenUrl);
+
+        var parsedobj = JSON.parse(JSON.stringify(this.form))
+
+        // Register
+        const { data } = await this.$axios.post('/api/users/', this.form);
+        this.$router.push(this.localePath({name: 'auth-login'}));
+      } catch (error) {
+        console.error(error);
+      }
+
+      this.$refs.hcaptcha.reset();
+    },
+    setCaptchaResponse(token, eKey) {
+      this.form['hCaptchaResponse'] = token;
+    },
+    removeExpiredCaptcha() {
+      this.form['hCaptchaResponse'] = '';
+    }
+  }
+}
+</script>

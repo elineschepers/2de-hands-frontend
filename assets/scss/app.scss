@@ -1,0 +1,33 @@
+@import "vue-multiselect/dist/vue-multiselect.min.css";
+@import "filepond/dist/filepond.min.css";
+@import "filepond-plugin-image-preview/dist/filepond-plugin-image-preview.min.css";
+
+/**
+ * Default parameters
+ **/
+html, body, #__nuxt, #__layout, #page-wrapper {
+  height: 100%;
+  @apply bg-white overflow-x-hidden;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 200;
+}
+
+a {
+  @apply font-medium text-blue-600 hover:text-blue-500;
+}
+
+main {
+  &.boxed-centered, .boxed-centered {
+    @apply max-w-lg mx-auto pt-10 pb-12 px-4 lg:pb-16;
+  }
+
+  &.content {
+    @apply pt-10 pb-12 px-4 lg:pb-16 mx-auto container;
+  }
+}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;500&family=Roboto&display=swap');
+@import "components/card";
+@import "components/button";
+@import "components/alert";
+@import "components/form";
+@import "components/toast";

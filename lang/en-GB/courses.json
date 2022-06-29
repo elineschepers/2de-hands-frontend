@@ -1,0 +1,6 @@
+{
+  "menu": "Courses",
+  "createTitle": "Create a new course",
+  "updateTitle":"Edit a course",
+  "createDescription": "You are about to create a new course. Let's start by filling out the information below."
+}

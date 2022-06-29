@@ -1,0 +1,15 @@
+{
+    "title":"Manual",
+    "start":"Overview offers",
+    "startdata":"Via the navigation bar you can go to the overview. Here you will find all offers. If you would like more information on a specific offer or if you would like to contact the seller regarding the offer, click on the offer itself.",
+    "contact":"Contact seller",
+    "contactdata":"You can choose to modify the pre-made text or delete it entirely and write something by yourself. If you then press 'send' your message will be sent to the seller and they will contact you as soon as possible via the email address you provided when creating your account.",
+    "edit":"Edit your offer",
+    "editdata":"If you want to change an offer you have already created, you can check the 'Only my own offers' checkbox on the overview page and then click on the offer you would like to change. You will see a new page with the information on the offer and an 'edit' button, click on it. You can now update the information on the offer. When you are done, click on 'save offer'. You will be notified when the changes have been successfully saved.",
+    "delete":"Delete your offer",
+    "deletedata":"If you want to delete an offer you have already created, you can check the 'Only my own offers' checkbox on the overview page and then click the offer you would like to delete. You will see a new page with the information on the offer and a 'delete' button, click on it. You will then be asked to confirm your decision. If you confirm, the offer will be permanently deleted and you will be notified when the offer has been deleted.",
+    "add": "Add an offer",
+    "adddata":"Via the navigation bar you can go to 'Add offer'. Then you indicate the most suitable title for your offer as well as the price you want to set for this product. Under 'Subjects' you indicate to which subject the product applies. Under 'condition' you indicate whether the product is 'new', 'as good as new' or 'used'. When you have filled out all the information, click on 'save offer' and your offer will be added to the list of offers on the overview page.",
+    "sell": "Selling/buying a product (IMPORTANT)",
+    "selldata":"The sale of a product does NOT happen through this website. This happens off-platform between the buyer and seller. UCLL is NOT liable for the sale/purchase of the products offered through this website."
+}

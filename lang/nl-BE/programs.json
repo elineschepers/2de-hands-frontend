@@ -1,0 +1,8 @@
+{
+  "menu": "Programma's",
+  "createTitle": "Nieuw programma aanmaken",
+  "createDescription": "U staat op het punt een nieuw programma te maken. Dit bevat een groep cursussen die samen kunnen worden gevolgd. Laten we beginnen met het invullen van de onderstaande gegevens.",
+  "updateTitle":"Programma bewerken",
+  "updateDescription": "U staat op het punt een programma te bewerken. Laten we beginnen met het aanpassen van de onderstaande gegevens.",
+  "createOffer":"Voeg aanbieding toe"
+}

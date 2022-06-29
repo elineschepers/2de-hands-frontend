@@ -1,0 +1,43 @@
+{
+  "filter": {
+    "title": "zoeken op titel",
+    "isbn": "zoeken op isbn",
+    "description": "zoeken op beschrijving"
+  },
+  "sort": {
+    "price_up": "Prijs oplopend",
+    "price_down": "Prijs aflopend",
+    "new_first": "Nieuwste eerst",
+    "old_first": "Oudste eerst",
+    "title_up": "Titel"
+  },
+  "condition": {
+    "new": "Nieuw",
+    "used": "Gebruikt",
+    "as_good_as_new": "Bijna nieuw",
+    "title": "Conditie"
+  },
+  "menu": "Overzicht",
+  "save": "Aanbieding opslaan",
+  "selectCourses": "Selecteer vakken",
+  "createTitle": "Nieuwe aanbieding maken",
+  "editTitle": "Deze aanbieding bewerken",
+  "formDescription": "U staat op het punt een nieuwe aanbieding te maken. U kunt afbeeldingen toevoegen nadat u de aanbieding hebt opgeslagen.",
+  "editDescription": "U staat op het punt een aanbieding te bewerken.",
+  "images": "Afbeeldingen",
+  "owned": "Enkel mijn eigen aanbiedingen",
+  "search": "Zoeken in de aanbiedingen",
+  "viewImageLarger": "Bekijk afbeelding {order} in groot formaat",
+  "askingPrice": "Vraagprijs",
+  "edit": "Wijzig",
+  "seller": "Verkoper",
+  "imageDeleted":"Foto is verwijderd",
+  "isbn": "ISBN-nummer",
+  "courses": "Vakken",
+  "image_in_queue": "Afbeelding staat in de wachtrij voor het verwerken",
+  "image_processed": "Afbeelding is verwerkt en beschikbaar",
+  "sort_images_tip": "Tip: versleep afbeeldingen om hun volgorde te veranderen",
+  "free": "Gratis",
+  "title": "{offertitle} - Verkocht",
+  "noresult": "Geen zoekertjes gevonden!"
+}

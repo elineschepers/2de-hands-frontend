@@ -1,0 +1,15 @@
+{
+    "title":"Gebruiksaanwijzing",
+    "start":"Overzicht aanbiedingen",
+    "startdata":"Via de navigatiebalk kan u naar het overzicht gaan. Hier vindt u alle aanbiedingen. Als u graag meer informatie wenst over een specifieke aanbieding of u wil de verkoper graag contacteren, dan klikt u op de aanbieding zelf.",
+    "contact":"verkoper contacteren",
+    "contactdata":"U kan de voor u reeds voorgemaakte tekst aanpassen of volledig wissen en zelf een bericht schrijven. Als u vervolgens op 'verzenden' drukt zal uw bericht worden verstuurd naar de verkoper en zal die u zo snel mogelijk contacteren via het door u opgegeven emailadres bij het aanmaken van uw account.",
+    "edit":"Uw aanbieding aanpassen",
+    "editdata":"Als u een door u reeds aangemaakte aanbieding wil wijzigen, kan u via de overzicht pagina de checkbox 'Enkel mijn eigen aanbiedingen' aanvinken en nadien de gewenste aanbieding aanklikken. U zal dan een nieuwe pagina te zien krijgen met de informatie over de aanbieding alsook een knop 'wijzig', hier klikt u op. Vervolgens kan u de informatie van de aanbieding aanpassen. Na het aanpassen van de gegevens drukt u op 'aanbieding opslaan'. U zal een melding krijgen wanneer de wijzigingen succesvol zijn opgeslagen.",
+    "delete":"Uw aanbieding verwijderen",
+    "deletedata":"Als uw aanbieding verkocht is of u wilt het product niet meer verkopen kan u de aanbieding verwijderen. Dit doet u door via de overzicht pagina de checkbox 'Enkel mijn eigen aanbiedingen' aan te vinken en nadien de gewenste aanbieding aan te klikken. U zal dan een nieuwe pagina te zien krijgen met de informatie over de aanbieding. Hier kan u rechts bovenaan een 'Verkocht' knop vinden, indien u hier op klikt, wordt de aanbieding als verkocht weergegeven. Wenst u de aanbieding te verwijderen, klik dan eerst op de wijzig knop. Een nieuwe pagina wordt geladen waar u vervolgens de checkbox naast 'verwijderen' kan aanklikken. U zal een melding krijgen dat de aanbieding succesvol verkocht of verwijderd is.",
+    "add": "Voeg een aanbieding toe",
+    "adddata":"Via de navigatiebalk kan u naar 'voeg aanbieding toe' gaan. Vervolgens geeft u de meest geschikte titel voor uw aanbieding mee alsook het bedrag dat u voor dit product wil krijgen. Onder 'vakken' geeft u mee voor welk vak het product van toepassing is. Onder 'conditie' geeft u mee of het product 'nieuw', 'zo goed als nieuw' of 'gebruikt' is. Als u alles heeft ingevuld drukt u op 'aanbieding opslaan' en wordt uw aanbieding toegevoegd aan de lijst van aanbiedingen op de overzicht pagina.",
+    "sell": "Een product verkopen/kopen (BELANGRIJK)",
+    "selldata":"De verkoop van een product verloopt NIET via deze website. Dit vindt onderling plaats tussen koper en verkoper. UCLL is NIET aansprakelijk voor de verkoop/aankoop van de producten die op deze website aangeboden worden."
+}

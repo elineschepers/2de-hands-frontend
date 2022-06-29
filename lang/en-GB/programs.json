@@ -1,0 +1,8 @@
+{
+  "menu": "Programs",
+  "createTitle": "Create a new program",
+  "createDescription": "You are about to create a new program. This contains a group of courses that can be taken together. Let's start by filling out the information below.",
+  "updateTitle":"Update program",
+  "updateDescription": "You are about to edit a program. Let's start by updating the details below.",
+  "createOffer":"Create Offer"
+}
